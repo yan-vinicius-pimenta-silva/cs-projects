@@ -1,0 +1,15 @@
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.exe
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.deps.json
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.runtimeconfig.json
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.dll
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.pdb
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.AssemblyReference.cache
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.dll
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\refint\MyFirstProgram.dll
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.pdb
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.genruntimeconfig.cache
+C:\Users\yan.silva\Documents\cs-projects\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\ref\MyFirstProgram.dll
